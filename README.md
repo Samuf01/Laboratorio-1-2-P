@@ -19,8 +19,23 @@ Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras 
 
 3. Materiales y Equipo
 
+![image](https://user-images.githubusercontent.com/94079321/147114526-3c1dc759-a442-474a-a399-59963848830c.png)
 
 4. Procedimiento
+
+
+-Arme el circuito que se muestra en la figura 4.1.
+
+![image](https://user-images.githubusercontent.com/94079321/147114590-0e054f0a-3c67-484a-bfd3-aa4da398cb2b.png)
+
+- Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+
+- Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+- Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+
+
+- Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
 
 5. Conclusiones
