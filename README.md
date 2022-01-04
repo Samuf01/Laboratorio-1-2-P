@@ -4,8 +4,15 @@ Integrantes: Flores Samuel, Cela Lizz, Sánchez Isaac
 1. Objetivos
 
   1.1. Objetivo General
+  
+  Realizar el circuito a continuación y demostrar mediante la medición que sus valores son los mismos que obtenemos al realizarlos mediante los cálculos.
 
   1.2. Objetivo Especifico
+  
+  - Medir con exactitud los valores solicitados en el circuito
+  - Calcular de forma algebraica los valores solicitados en el circuito
+  - Utilizar con exactitud los simuladores vistos en clase (Tinkercad).
+
 
 2. Información general
 
@@ -58,5 +65,10 @@ Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras 
 
 5. Conclusiones
 
+- Colocar los cables del multímetro de nuestro simulador donde corresponde para que asi no se nos imprima un resultado incorrecto
+- Manipular de forma clara y precisa los elementos como resistores, cables, fuentes de energía, etc
+- Tener clara la parte teórica del teorema de superposición para realizar de forma fructífera este circuito.
 
 6. Bibliografia
+
+Resumen del análisis de circuitos. (s. f.). Khan Academy. Recuperado 4 de enero de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-circuit-analysis-overview
