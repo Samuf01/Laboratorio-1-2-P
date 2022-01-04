@@ -37,6 +37,10 @@ Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras 
 
 - Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
+![image](https://user-images.githubusercontent.com/94079321/148002594-20a652ad-9e35-44c0-8eb8-0bc36f77f5d5.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148002584-6a9f9b03-6049-44c6-9416-fe20223a16ef.png)
+
 
 5. Conclusiones
 
