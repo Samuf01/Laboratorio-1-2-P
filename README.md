@@ -28,12 +28,21 @@ Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras 
 
 ![image](https://user-images.githubusercontent.com/94079321/147114590-0e054f0a-3c67-484a-bfd3-aa4da398cb2b.png)
 
+- Circuito formado con el Simulador Tinkercad
+
+![image](https://user-images.githubusercontent.com/94079321/148076286-598ed19a-3f26-48c8-a3fa-3aff49a7433f.png)
+
 - Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+
+![image](https://user-images.githubusercontent.com/94079321/148076345-14e7d252-c144-473a-a25b-e14c5a3808c0.png)
 
 - Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/94079321/148076430-a2c98684-3e63-49e4-a916-a8467326caaa.png)
+
 - Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
 
+![image](https://user-images.githubusercontent.com/94079321/148076475-0e3c4574-4004-43b9-98c2-a7bb5df4496d.png)
 
 - Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
