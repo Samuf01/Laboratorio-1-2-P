@@ -50,6 +50,11 @@ Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras 
 
 ![image](https://user-images.githubusercontent.com/94079321/148002584-6a9f9b03-6049-44c6-9416-fe20223a16ef.png)
 
+-Tablas
+
+![image](https://user-images.githubusercontent.com/94079321/148077769-cc10b64e-ecf9-49b5-97b9-dbc4ba0e18b8.png)
+
+![image](https://user-images.githubusercontent.com/94079321/148077807-93d246f4-008f-410b-9c7a-f4e7fdc24cca.png)
 
 5. Conclusiones
 
